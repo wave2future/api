@@ -1,2 +1,1 @@
-API
-===
+Please see the wiki for API documentation.  This repository will eventually contain code examples/snippets.
